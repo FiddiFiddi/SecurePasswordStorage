@@ -1,0 +1,8 @@
+C:\Code\SecureLogin\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Code\SecureLogin\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Code\SecureLogin\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Code\SecureLogin\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Code\SecureLogin\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Code\SecureLogin\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Code\SecureLogin\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Code\SecureLogin\Entities\obj\Debug\netstandard2.0\Entities.pdb
